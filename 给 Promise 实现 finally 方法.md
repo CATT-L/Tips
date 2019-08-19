@@ -1,3 +1,7 @@
+# 给 Promise 实现 finally 方法
+
+
+
 ```javascript
 // 给 Promise 实现 finally 方法
 if(Promise.prototype.finally == undefined){
