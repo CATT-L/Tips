@@ -1,4 +1,4 @@
-# 优化 Linux 内核参数
+# CentOS 优化 Linux 内核参数
 
 
 
