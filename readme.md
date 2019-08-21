@@ -11,5 +11,4 @@
 ### 目录
 
 * CentOS 相关
-  * [CSS 禁止文本选中](CSS+%e7%a6%81%e6%ad%a2%e6%96%87%e6%9c%ac%e9%80%89%e4%b8%ad.md)
-
+  * [CentOS 优化 Linux 内核参数.md](https://github.com/CATT-L/Tips/blob/master/CentOS 优化 Linux 内核参数.md)
