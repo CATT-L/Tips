@@ -17,3 +17,11 @@
   ```
 
   
+
+* m4a ( aac ) 转换 mp3
+
+  ```shell
+  ffmpeg -i music.m4a -acodec mp3 -b:a 128k -ar 44100 -ac 1 music.mp3
+  ```
+
+  
