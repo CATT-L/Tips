@@ -56,15 +56,15 @@ function CloseBracket()
 endf
 
 function QuoteDelim(char)
- let line = getline('.')
- let col = col('.')
- if line[col - 2] == "\\"
- return a:char
- elseif line[col - 1] == a:char
- return "\<Right>"
- else
- return a:char.a:char."\<Esc>i"
- endif
+	let line = getline('.')
+	let col = col('.')
+	if line[col - 2] == "\\"
+	return a:char
+	elseif line[col - 1] == a:char
+	return "\<Right>"
+	else
+	return a:char.a:char."\<Esc>i"
+	endif
 endf
 
 func SkipPair()  
