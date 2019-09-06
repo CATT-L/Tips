@@ -12,3 +12,11 @@
 git update-index --skip-worktree [文件路径]
 ```
 
+
+
+撤销这个操作, 使用下面命令
+
+```shell
+git update-index --no-skip-worktree [文件路径]
+```
+

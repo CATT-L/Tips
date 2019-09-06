@@ -28,6 +28,15 @@ highlight CursorColumn cterm=bold ctermbg=234 ctermfg=207 guibg=NONE guifg=NONE
 highlight comment ctermfg=198,darkgray
 highlight LineNr ctermfg=198,darkgray
 
+
+
+```
+
+
+
+下面还有括号补全的, 但是还有问题, 不好使
+
+```conf
 " 括号补全
 inoremap ( ()<Esc>i
 inoremap [ []<Esc>i
@@ -77,6 +86,5 @@ endfunc
 
 " 将tab键绑定为跳出括号  
 inoremap <TAB> <c-r>=SkipPair()<CR>
-
 ```
 
