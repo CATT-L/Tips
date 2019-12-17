@@ -87,6 +87,7 @@ make && make install
 cd ../
 
 tar xzvf cmake-3.15.2.tar.gz
+cd cmake-3.15.2/
 ./configure
 make && make install
 cd ../
@@ -351,7 +352,7 @@ service php-fpm restart
 关闭
 
 ```shell
-service php-fpm sop
+service php-fpm stop
 ```
 
 
