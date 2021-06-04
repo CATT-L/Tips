@@ -22,6 +22,8 @@ acl auth_user proxy_auth REQUIRED
 
 # 允许带密码用户使用代理
 http_access allow auth_user
+
+# 注: 上述授权代码 要放在 http_access deny all 之前
 ```
 
 
