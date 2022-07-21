@@ -29,6 +29,10 @@ highlight comment ctermfg=198,darkgray
 highlight LineNr ctermfg=198,darkgray
 
 
+hi CursorLine cterm=bold  ctermbg=234 ctermfg=None guibg=NONE guifg=NONE
+hi comment ctermfg=242
+hi LineNr ctermfg=102 ctermbg=237 cterm=NONE guifg=#90908a guibg=#3c3d37 gui=NONE
+hi Number ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 
 ```
 
