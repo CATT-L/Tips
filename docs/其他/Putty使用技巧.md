@@ -48,13 +48,13 @@ ws.Exec("C:\APP\putty\PUTTY.EXE root@192.168.0.1 -i D:\ssh_keys\mykey.ppk")
 
 ##### 记住登录用户名
 
-![1580713866070](assets/Putty%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/1580713866070.png)
+![1580713866070](./assets/Putty%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/1580713866070.png)
 
 
 
 ##### 密钥登录
 
-![1580713930005](assets/Putty%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/1580713930005.png)
+![1580713930005](./assets/Putty%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/1580713930005.png)
 
 
 
