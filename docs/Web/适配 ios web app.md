@@ -68,12 +68,9 @@
   ```
 
   - default 默认, 受 theme-color 支配
-
   - black 黑色
+  - black-translucent 透明, 网页内容会跑到状态栏底下, 如果不做好margin则会被刘海和状态图标遮挡
 
-  - black-translucent 透明, 网页内容会跑到状态栏底下, 如果不做好margin则会被刘海和状态图标遮挡,像这样
-
-    ![1669097982587](./assets/%E9%80%82%E9%85%8D%20ios%20web%20app/1669097982587.png)
 
 - 设置图标和默认标题
 
