@@ -20,7 +20,7 @@ export default defineUserConfig({
 
     docsBranch: "develop",
 
-    editLinkPattern: ":repo/-/edit/:branch/:path",
+    editLinkPattern: ":repo/edit/:branch/:path",
 
     navbar: navbar,
     sidebar: sidebar,
