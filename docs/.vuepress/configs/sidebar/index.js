@@ -55,7 +55,6 @@ export default {
       children: [
         "/其他/给 Promise 实现 finally 方法.md",
         "/其他/Electron打包Vue项目.md",
-        "/其他/Windows 10 微软输入法自定义时间格式.md",
         "/其他/批量删除豆瓣广播.md",
         "/其他/ffmpeg 的基本用法.md",
         "/其他/windows中hosts文件编辑.md",
