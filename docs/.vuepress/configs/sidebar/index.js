@@ -6,6 +6,7 @@ export default {
     },
     {
       text: "CentOS",
+      collapsible: true,
       children: [
         "/CentOS/CentOS 显示欢迎语.md",
         "/CentOS/CentOS 登录时显示磁盘使用情况.md",
@@ -27,6 +28,7 @@ export default {
     },
     {
       text: "Web",
+      collapsible: true,
       children: [
         "/Web/CSS 禁止文本选中.md",
         "/Web/Nginx 证书配置 跳转 反向代理.md",
@@ -38,6 +40,7 @@ export default {
     },
     {
       text: "游戏",
+      collapsible: true,
       children: [
         {
           text: "Cocos",
@@ -48,6 +51,7 @@ export default {
     },
     {
       text: "其他",
+      collapsible: true,
       children: [
         "/其他/给 Promise 实现 finally 方法.md",
         "/其他/Electron打包Vue项目.md",
